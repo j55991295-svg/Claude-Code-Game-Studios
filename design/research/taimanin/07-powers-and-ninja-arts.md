@@ -115,7 +115,7 @@ one technique.
 | **Bug** (蟲遁) | Command swarms of demonic insects via pheromones. | — | — |
 | **Evil Eye** (邪眼, umbrella) | One eye-triggered power per user: paralysis, skill theft, clairvoyance, magnetism, charm and more. A status symbol in the clan. | Demonic Gate, Freezing Eye, Yaksha's Skull, Deadly Gaze | Fuuma clan and branches. *Danjo Fuuma; Kotaro Fuuma* `[TABA]`. |
 | **Sensory arts** (umbrella) | Enhanced or extra senses. | Seeing Through Objects, Hawk Eye | — |
-| **Mind** (心遁) | Read or steer the conscious and unconscious mind. | Mind Reading, Subconscious Manipulation | Ogidou clan. *Oboro's hypnotic seal is of this family.* |
+| **Mind** (心遁) | Read or steer the conscious and unconscious mind. | Mind Reading, Subconscious Manipulation | Ogidou clan. (Oboro's "Seal of Hypnotism" resembles this family, but the wiki does not classify it — an inference.) |
 | **Soul** (魂遁) | Manipulate one's own or others' souls; read soul-memories. | Death's Record | *Natsu Inage.* |
 | **Cicada Shell** (空蝉の術) | Swap bodies or transfer the mind into another body. | Mind Transfer, Pair Transfer | Rare; Koukawa clan. *Oboro Koukawa.* |
 | **Substitution** (変わり身の術) | Swap appearance with someone else. | Body Swap | Onisaki clan. |
